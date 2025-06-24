@@ -1,4 +1,4 @@
-# pathao_data_analysis
+# pathao_data_analysis_SQL_POWERBI
 Problem Statement:
 
 A ride-hailing platform wants to analyze its booking and ride performance data to improve customer experience and operational efficiency. The company seeks insights on booking outcomes, customer behavior, driver performance, and payment methods. Specifically, they aim to:
