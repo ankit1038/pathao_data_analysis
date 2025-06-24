@@ -148,7 +148,7 @@ Segregation of the views:
 1. Overall
 - Ride Volume Over Time
 - Booking Status Breakdown
-<img width="601" alt="Image" src="https://github.com/user-attachments/assets/20a55622-83a0-4db4-aac7-383d3f7f446b" />
+<img width="601" alt="Image" src="https://github.com/user-attachments/assets/8cb1b9f8-11db-4427-b456-3ce74de4e015" />
 
 2. Vehicle Type
 - Top 5 Vehicle Types by Ride Distance
@@ -158,11 +158,15 @@ Segregation of the views:
 - Revenue by Payment Method
 - Top 5 Customers by Total Booking Value
 - Ride Distance Distribution Per Day
+<img width="593" alt="Image" src="https://github.com/user-attachments/assets/d2200dc6-3b97-4889-bb69-40344321656c" />
+
 4. Cancellation
 - Cancelled Rides Reasons (Customer)
 - cancelled Rides Reasons(Drivers)
+<img width="590" alt="Image" src="https://github.com/user-attachments/assets/db990751-62cf-4df3-9f00-e5a24e6e6139" />
+
 5. Ratings
 - Driver Ratings
 - Customer Ratings
-
+<img width="602" alt="Image" src="https://github.com/user-attachments/assets/7d7af4e3-9490-480c-831f-cacc2ca0b682" />
 
