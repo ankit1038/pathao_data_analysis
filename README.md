@@ -142,3 +142,27 @@ SELECT Booking_ID, Incomplete_Rides_Reason FROM pathao WHERE Incomplete_Rides =
 ```sql
 SELECT * FROM pathao WHERE payment_method = 'Fone Pay';
 ```
+Power BI Answers:
+Segregation of the views:
+
+1. Overall
+- Ride Volume Over Time
+- Booking Status Breakdown
+<img width="601" alt="Image" src="https://github.com/user-attachments/assets/20a55622-83a0-4db4-aac7-383d3f7f446b" />
+
+2. Vehicle Type
+- Top 5 Vehicle Types by Ride Distance
+
+  
+3. Revenue
+- Revenue by Payment Method
+- Top 5 Customers by Total Booking Value
+- Ride Distance Distribution Per Day
+4. Cancellation
+- Cancelled Rides Reasons (Customer)
+- cancelled Rides Reasons(Drivers)
+5. Ratings
+- Driver Ratings
+- Customer Ratings
+
+
