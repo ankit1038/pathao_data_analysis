@@ -152,7 +152,7 @@ Segregation of the views:
 
 2. Vehicle Type
 - Top 5 Vehicle Types by Ride Distance
-
+<img width="599" alt="Image" src="https://github.com/user-attachments/assets/c594bc69-ae5d-4d9e-bc20-9b2e0f3e2b42" />
   
 3. Revenue
 - Revenue by Payment Method
